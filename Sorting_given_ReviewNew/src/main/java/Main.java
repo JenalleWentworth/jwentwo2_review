@@ -4,11 +4,13 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.NoSuchElementException;
 
-/**
- * main method for running the program.
- * @author amehlhas
- *
- */
+/*
+File: Main.java	
+Author: amehlhas
+Date: April 9, 2018	
+
+Description: main method for running the program.
+*/
 final class Main {
 	/**
 	 * All methods should have a Javadoc according to STYLE.
